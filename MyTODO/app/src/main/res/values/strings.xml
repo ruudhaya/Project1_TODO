@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTODO</string>
+    <string name="statusicon">Status Icon"</string>
+    <color name="blue">#0000FF</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="dialogPosBtn">SAVE</string>
+    <string name="dialogNegBtn">CANCEL</string>
+    <string name="TaskTitleHint">Title</string>
+    <string name="TaskDescHint">Description</string>
+</resources>
